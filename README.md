@@ -1,4 +1,4 @@
-# MongoDB_Chef_HW
+# MongoDB_Chef_HW!
 
 **By : Erica P da Silva Correia**
 
@@ -57,7 +57,7 @@ If you don't have Vagrant installed, follow this link: [**Download Vagrant**](ht
 
 ##### Challenges :
 
-Overall, I felt quite lost at the beginning of this assignment. Some parts are very clear and some just aren't. After I did some research I kind of started to get the hang of it. Could use more practice, especially with the unit testing part of it. I get a little confused when writing the tests so I'd say that proved to be a challenge for this homework as well. 
+Overall, I felt quite lost at the beginning of this assignment. Some parts are very clear and some just aren't. After I did some research I kind of started to get the hang of it. Could use more practice, especially with the unit testing part of it. I get a little confused when writing the tests so I'd say that proved to be a challenge for this homework as well.
 
 -----
 
